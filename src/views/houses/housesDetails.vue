@@ -1,0 +1,1 @@
+<template>	<div>		housesDetails	</div></template><script>	export default {		name: "housesDetails"	}</script><style scoped></style>

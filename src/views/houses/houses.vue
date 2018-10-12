@@ -1,0 +1,1 @@
+<template>	<div>		<router-link :to="{name:'housesDetails'}">houses</router-link>		<router-view />	</div></template><script>	export default {		name: "houses"	}</script><style scoped></style>
